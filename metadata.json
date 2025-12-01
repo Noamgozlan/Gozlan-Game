@@ -1,0 +1,5 @@
+{
+  "name": "Gozlan - Social Deduction Game",
+  "description": "A fun multiplayer guessing game where players must identify the impostor among them.",
+  "requestFramePermissions": []
+}
